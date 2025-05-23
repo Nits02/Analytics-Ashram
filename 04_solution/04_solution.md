@@ -9,7 +9,7 @@ This solution integrates data ingestion, harmonization, feature engineering, ris
 
 ---
 
-![alt text](architecture_design.png)
+![alt text](../images/solution.png)
 
 ## 🎯 Solution Objectives
 
