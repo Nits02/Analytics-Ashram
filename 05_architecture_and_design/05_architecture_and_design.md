@@ -39,7 +39,7 @@ The DRPI platform consists of multiple cooperating containers designed to provid
 
 This level breaks down the **DRPI Computation Engine** into logical sub-components that operate within Databricks Notebooks or Python modules.
 
-![alt text](../images/C3_diagram.jpg)
+![alt text](../images/c3_diagram.jpg)
 
 ### Key Components:
 
