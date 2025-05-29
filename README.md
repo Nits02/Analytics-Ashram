@@ -7,6 +7,9 @@
 # 🚨 CivAI — DRPI-Powered Resilience Intelligence System
 ### A Smart Disaster Preparedness and Response Platform powered by GenAI & BI — Team: Analytics Ashram
 
+
+![alt text](./images/CivAI_Logo.png)
+
 ---
 
 ## 🔍 Hackathon Overview
@@ -20,6 +23,20 @@ Participants were tasked with solving one of the following:
 We chose the second challenge, recognizing its potential societal impact.
 
 ---
+
+## 📌 **Table of Contents**
+1. [Problem Statement]()
+2. [Team Members]()
+2. [Our Solution - Meet CivAI]()
+3. [Challenges & Impact](#-challenges--impact)
+3. [System Architecture](#-system-architecture)
+5. [Technical Implementation](#-technical-implementation)
+6. [Architecture Decision Records (ADRs)](#-architecture-decision-records-adrs)
+7. [How to Contribute](#-how-to-contribute)
+
+
+---
+
 
 ## 🧠 Problem Statement — DRPI: Disaster Recovery Preparedness Index
 
@@ -41,11 +58,16 @@ By combining multiple data sources (infrastructure, healthcare, economic, climat
 
 ## 👨‍👩‍👧‍👦 Team: Analytics Ashram
 
-We are a group of passionate data professionals working at the intersection of **AI, public safety, and data-driven insights**.
 
-- 🧠 **[Your Name]** – AI/ML Lead
-- 📊 **[Your Name]** – BI Engineer
-- 🏗 **[Your Name]** – Solutions Architect
+Hi! We are the **"Team Analytics Ashram"** – playing with Data via AI.
+
+![alt text](./images/Team.png)
+
+-  **[Nitesh Sharma](https://www.linkedin.com/in/nsharma02/)** -           Data Architect
+-  **[Mohit Tiwari](https://www.linkedin.com/in/mohit-tewari/)** -         Lead Data Scientist
+-  **[Jyoti Singh](https://www.linkedin.com/in/jyoti-singh-49b2b319/)** -  Lead Data Engineer
+
+We are a group of passionate data professionals working at the intersection of **AI, public safety, and data-driven insights**.
 
 > We believe that *data can save lives* — when it's accessible, explainable, and intelligent.
 
