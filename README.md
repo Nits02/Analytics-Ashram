@@ -16,16 +16,10 @@
 
 This project was developed for the [Databricks Smart Business Insights Challenge](https://hackathon.stackup.dev/web/events/databricks-smart-business-insights-challenge?scid=701Vp00000JlYwNIAV) — a global innovation competition to reimagine data analytics using Databricks Lakehouse, AI/BI dashboards, and modern application building with Databricks Apps.
 
-Participants were tasked with solving one of the following:
-- Revenue Forecasting for Retail
-- Disaster Recovery Preparedness Index (DRPI)
-
-We chose the second challenge, recognizing its potential societal impact.
-
 ---
 
 ## 📌 **Table of Contents**
-1. [Problem Statement]()
+1. [Problem Statement](./01_problem_statement/01_problem_statement.md)
 2. [Team Members]()
 2. [Our Solution - Meet CivAI]()
 3. [Challenges & Impact](#-challenges--impact)
