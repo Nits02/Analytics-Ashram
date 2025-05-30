@@ -212,7 +212,26 @@ This concise ADR summary highlights the core design choices behind the **Disaste
 > 🎥 Coming Soon: Watch our walkthrough video here  
 > _(To be uploaded before final submission)_
 
+## 🎥 Demo Video: CivAI in Action
+
+Explore how **CivAI – DRPI System** helps cities prepare for disasters using real-time AI/BI insights and open data intelligence.
+
+<p align="center">
+  <a href="https://vimeo.com/1088978595/938998005c" target="_blank">
+    <img src="./images/intro_slide.png" alt="Watch CivAI Demo Video" width="600"/>
+  </a>
+</p>
+
+👉 [Click here to watch the full 5-minute demo on Vimeo](https://vimeo.com/1088978595/938998005c)
+
 ---
+
+## 📊 Presentation Slides: CivAI System Overview
+
+Get a visual walkthrough of the CivAI – DRPI system, including the problem we address, architecture, data pipelines, AI/BI dashboards, and future roadmap.
+
+👉 [Click here to open the full CivAI Presentation Slide Deck](/07_presentation/CivAI%20-%20DRPI%20System%20Presentation%20Hackathon.pdf)
+
 
 ## 🤝 Contribute & Collaborate
 
