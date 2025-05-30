@@ -128,3 +128,6 @@ This architecture ensures that DRPI is:
 - Insightful: Computed scores that drive public health decisions
 - Actionable: Automated alerts and live dashboards
 
+---
+
+<sub>Built with ❤️ and Databricks by Team Analytics Ashram — May 2025</sub>

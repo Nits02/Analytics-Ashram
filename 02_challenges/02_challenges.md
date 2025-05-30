@@ -46,3 +46,6 @@
 
 **RAISE** rises to meet both societal and technical challenges by leveraging a unified lakehouse platform and open data to drive proactive, AI-enabled disaster resilience insights for Singapore. It empowers city agencies, residents, and responders with real-time visibility, risk scoring, and conversational analytics — building a safer, smarter future.
 
+---
+
+<sub>Built with ❤️ and Databricks by Team Analytics Ashram — May 2025</sub>

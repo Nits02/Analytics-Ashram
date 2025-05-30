@@ -44,3 +44,7 @@ By creating a **multi-source, AI-enhanced DRPI platform**, we empower:
 Ultimately, this solution advances **climate resilience**, **public health equity**, and **data-driven governance**—delivering on the social impact mission of this hackathon.
 
 ---
+
+---
+
+<sub>Built with ❤️ and Databricks by Team Analytics Ashram — May 2025</sub>
