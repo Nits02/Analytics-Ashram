@@ -22,6 +22,8 @@ This project was developed for the [Databricks Smart Business Insights Challenge
 1. [Problem Statement](./01_problem_statement/01_problem_statement.md)
 2. [Team Members](#-team-analytics-ashram)
 2. [Our Solution - Meet CivAI](./04_solution/04_solution.md)
+   - i. [Genie Spaces](./04_solution/04_GenieSpace.md)
+   - ii. [BI dashboards](./04_solution/04_Dashboard.md)
 3. [Challenges & Impact](./02_challenges/02_challenges.md)
 3. [System Architecture](./05_architecture_and_design/05_architecture_and_design.md)
 5. [Technical Architecture](./04_solution/04_solution.md)
@@ -40,9 +42,9 @@ Disasters are unpredictable but their impacts don’t have to be. Traditional pr
 ## 💡 Our Solution — Meet CivAI 🌪️
 
 CivAI is an **AI-powered disaster recovery insights assistant** that assesses DRPI scores and provides recommendations through:
-- **GenAI insights** using Databricks' MosaicML
-- **BI dashboards via Databricks SQL**
-- **Smart interactions** via Databricks Genie Spaces
+- **GenAI insights** using Databricks' MosaicML 
+- **[BI dashboards](./04_solution/04_Dashboard.md) via Databricks SQL**
+- **Smart interactions** via Databricks [Genie Spaces!](./04_solution/04_GenieSpace.md)
 - **Interactive apps** using the Databricks Apps SDK
 
 By combining multiple data sources (infrastructure, healthcare, economic, climate), our system delivers **real-time, explainable, and actionable preparedness intelligence** to communities and emergency planners.

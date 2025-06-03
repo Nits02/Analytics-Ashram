@@ -31,6 +31,16 @@ This solution integrates data ingestion, harmonization, feature engineering, ris
 | 🗓️ **PredictHQ API** | Real-time public event data: concerts, sports, disruptions. |
 | 🏛️ **Singapore Gov Data** | Census-based socio-demographic and health data (SDOH). |
 
+**PredictHQ API**
+![alt text](../images/DataSet/D2.png)
+
+
+**Accuweather API**
+![alt text](../images/DataSet/D3.png)
+
+
+**Singapore Gov Data Dataset**
+![alt text](../images/DataSet/D4.png)
 All APIs are integrated using Databricks notebooks, with secure token-based access.
 
 ---
